@@ -1,0 +1,114 @@
+.c-white {
+  color: white;
+}
+.c-red {
+  color: red;
+}
+.c-green {
+  color: green;
+}
+.bg-white {
+  background-color: white;
+}
+.bg-red {
+  background-color: red;
+}
+.bg-green {
+  background-color: green;
+}
+
+.bg-purple {
+  background-color: #470053;
+}
+
+.rad-6 {
+  border-radius: 6px;
+}
+
+.pad3 {
+  padding: 3px;
+}
+.pad5 {
+  padding: 5px;
+}
+.pad10 {
+  padding: 10px;
+}
+
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mr-5 {
+  margin-right: 5px;
+}
+.mr-10 {
+  margin-right: 10px;
+}
+.mr-15 {
+  margin-right: 15px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: end;
+}
+
+.txt-c {
+  text-align: center;
+}
+
+.btn {
+  cursor: pointer;
+  color: white;
+  border-radius: 6px;
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.5s;
+  border: none;
+}
+
+.btn:hover {
+  letter-spacing: 1px;
+}
+
+.dis-block {
+  display: block;
+}
